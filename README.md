@@ -13,7 +13,7 @@ An accordion with the above characteristics is above all indispensable in many p
 With react-headless-accordion we only focus on the style of the accordion rather than implementing all that logic.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/onesine/react-nested-accordion/master/assets/img/Screen_Shot_2022_10_21_at_12.12.47.png" alt="preview react-headless-accordion">
+<img src="https://raw.githubusercontent.com/lukpoex/react-nested-accordion/master/assets/img/Screen_Shot_2022_10_21_at_12.12.47.png" alt="preview react-headless-accordion">
 </p>
 
 ## Examples of online usage
@@ -258,4 +258,4 @@ These components are inspired by the [react](https://reactjs.org/) version of he
 I thank you in advance for your contribution to this project.
 
 ## License
-MIT Licensed. Copyright (c) Lewhe Onesine 2022.
+MIT Licensed. Copyright (c) Pavlo Markiyan 2022.
